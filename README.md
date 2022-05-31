@@ -5,5 +5,8 @@
 ### I'm ycdxsb
 
 - Currently working on Program Analyse, Windows Security
-- Blog: https://blog.ycdxsb.cn
-- ps: I am not single
+
+### Acknowledgements
+
+- [CVE-2022-24765](https://github.com/git-for-windows/git/security/advisories/GHSA-vw2c-22j4-2fh2)
+- [CVE-2022-22977](https://www.vmware.com/security/advisories/VMSA-2022-0015.html)
