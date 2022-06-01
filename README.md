@@ -7,6 +7,8 @@
 - Currently working on Program Analyse, Windows Security
 
 ### Acknowledgements
+- [CVE-2022-1316](https://www.zerotier.com/2022/04/11/zerotier-for-windows-local-privilege-escalation/) ZeroTier One
+- [CVE-2022-22977](https://www.vmware.com/security/advisories/VMSA-2022-0015.html) VMWare
+- [CVE-2022-24765](https://github.com/git-for-windows/git/security/advisories/GHSA-vw2c-22j4-2fh2) Git for windows
+- [CVE-2022-31012](https://github.com/git-for-windows/git/security/advisories/GHSA-gjrj-fxvp-hjj2) Git for windows
 
-- [CVE-2022-24765](https://github.com/git-for-windows/git/security/advisories/GHSA-vw2c-22j4-2fh2)
-- [CVE-2022-22977](https://www.vmware.com/security/advisories/VMSA-2022-0015.html)
