@@ -11,5 +11,7 @@
 - [CVE-2022-22977](https://www.vmware.com/security/advisories/VMSA-2022-0015.html) VMWare
 - [CVE-2022-24765](https://github.com/git-for-windows/git/security/advisories/GHSA-vw2c-22j4-2fh2) Git for Windows
 - [CVE-2022-31012](https://github.com/git-for-windows/git/security/advisories/GHSA-gjrj-fxvp-hjj2) Git for Windows
-- [CVE-2022-38020](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38020) Microsoft VSCode
+- [CVE-2022-38020](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38020) VSCode
+- [CVE-2022-38022](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-38022) Windows
+- [CVE-2022-41083](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41083) VSCode Jupyter Extension
 - [CVE-2022-39844](https://security.samsungmobile.com/serviceWeb.smsb) Samsung Mobile
