@@ -15,3 +15,6 @@
 - [CVE-2022-38022](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-38022) Windows
 - [CVE-2022-41083](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41083) VSCode Jupyter Extension
 - [CVE-2022-39844](https://security.samsungmobile.com/serviceWeb.smsb) Samsung Mobile
+- [CVE-2022-39402](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
+- [CVE-2022-39403](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
+- [CVE-2022-39404](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
