@@ -18,3 +18,4 @@
 - [CVE-2022-39402](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
 - [CVE-2022-39403](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
 - [CVE-2022-39404](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
+- [CVE-2022-41953](https://github.com/git-for-windows/git/security/advisories/GHSA-v4px-mx59-w99c) Git for Windows
