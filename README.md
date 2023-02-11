@@ -7,6 +7,10 @@
 - Currently working on Program Analyse, Windows Security
 
 ### Acknowledgements
+- [CVE-2023-24573](https://www.dell.com/support/kbdoc/000207973) Dell
+- [CVE-2023-24572](https://www.dell.com/support/kbdoc/000207931) Dell
+- [CVE-2023-23698](https://www.dell.com/support/kbdoc/000208038) Dell
+- [CVE-2023-23697](https://www.dell.com/support/kbdoc/000207929) Dell
 - [CVE-2023-23618](https://github.com/git-for-windows/git/security/advisories/GHSA-wxwv-49qw-35pm) Git for Windows
 - [CVE-2022-41953](https://github.com/git-for-windows/git/security/advisories/GHSA-v4px-mx59-w99c) Git for Windows
 - [CVE-2022-39404](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
