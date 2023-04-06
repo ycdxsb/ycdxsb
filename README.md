@@ -7,6 +7,7 @@
 - Currently working on Program Analyse, Windows Security
 
 ### Acknowledgements
+- [CVE-2023-28049](https://www.dell.com/support/kbdoc/000211748) Dell
 - [CVE-2023-24573](https://www.dell.com/support/kbdoc/000207973) Dell
 - [CVE-2023-24572](https://www.dell.com/support/kbdoc/000207931) Dell
 - [CVE-2023-23698](https://www.dell.com/support/kbdoc/000208038) Dell
