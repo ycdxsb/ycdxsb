@@ -9,6 +9,7 @@
 ### Acknowledgements
 - [CVE-2023-29012](https://github.com/git-for-windows/git/security/advisories/GHSA-gq5x-v87v-8f7g) Git for Windows
 - [CVE-2023-29011](https://github.com/git-for-windows/git/security/advisories/GHSA-g4fv-xjqw-q7jm) Git for Windows
+- [CVE-2023-28260](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260) DotNet SDK
 - [CVE-2023-28049](https://www.dell.com/support/kbdoc/000211748) Dell
 - [CVE-2023-24573](https://www.dell.com/support/kbdoc/000207973) Dell
 - [CVE-2023-24572](https://www.dell.com/support/kbdoc/000207931) Dell
