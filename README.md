@@ -5,10 +5,10 @@
 ### I'm ycdxsb
 
 - Currently working on Program Analyse, Windows Security
-- MSRC 2023 Q1 Leaderboard (rank 38)
-- Intel LeaderBoard (rank 17)
-- Dell Hall Of Frame (rank 7)
-- MSRC 2022 Q3 Leaderboard (rank 21)
+- MSRC 2023 Q1 Leaderboard (# 38)
+- Intel LeaderBoard (# 17)
+- Dell Hall Of Frame (# 7)
+- MSRC 2022 Q3 Leaderboard (# 21)
 
 ### Acknowledgements
 - [CVE-2023-29012](https://github.com/git-for-windows/git/security/advisories/GHSA-gq5x-v87v-8f7g) Git for Windows
