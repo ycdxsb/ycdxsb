@@ -6,8 +6,9 @@
 
 - Currently working on Program Analyse, Windows Security
 - MSRC 2023 Q1 Leaderboard (# 38)
-- Intel LeaderBoard (# 17)
 - Dell Hall Of Frame (# 7)
+- Intel LeaderBoard (# 17)
+- Google Bug Hunter Leaderboard (# N/A)
 - MSRC 2022 Q3 Leaderboard (# 21)
 
 ### Acknowledgements
