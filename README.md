@@ -1,8 +1,6 @@
 ### Contact
 email: ycdxsb@gmail.com
 
-### Github Status
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ycdxsb&count_private=true&show_icons=true&theme=radical" width="420">
 
 ### A small step forward
