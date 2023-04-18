@@ -1,17 +1,19 @@
-### Hi there 👋
+### Contact
+email: ycdxsb@gmail.com
+
+### Github Status
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ycdxsb&count_private=true&show_icons=true&theme=radical" width="420">
 
-### I'm ycdxsb
+### A small step forward
 
-- Currently working on Program Analyse, Windows Security
 - MSRC 2023 Q1 Leaderboard (# 38)
 - Dell Hall Of Frame (# 7)
 - Intel LeaderBoard (# 17)
 - Google Bug Hunter Leaderboard (# N/A)
 - MSRC 2022 Q3 Leaderboard (# 21)
 
-### Acknowledgements
+### Several vulnerabilities
 - [CVE-2023-29012](https://github.com/git-for-windows/git/security/advisories/GHSA-gq5x-v87v-8f7g) Git for Windows
 - [CVE-2023-29011](https://github.com/git-for-windows/git/security/advisories/GHSA-g4fv-xjqw-q7jm) Git for Windows
 - [CVE-2023-28260](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260) DotNet SDK
