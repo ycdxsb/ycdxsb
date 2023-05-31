@@ -24,6 +24,7 @@ email: ycdxsb@gmail.com
 - [CVE-2023-23697](https://www.dell.com/support/kbdoc/000207929) Dell
 - [CVE-2023-23618](https://github.com/git-for-windows/git/security/advisories/GHSA-wxwv-49qw-35pm) Git for Windows
 - [CVE-2023-21567](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21567) Visual Studio
+- [CVE-2023-2939](https://bugs.chromium.org/p/chromium/issues/detail?id=1427431) Google Chrome
 - [CVE-2022-41953](https://github.com/git-for-windows/git/security/advisories/GHSA-v4px-mx59-w99c) Git for Windows
 - [CVE-2022-39404](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
 - [CVE-2022-39403](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
