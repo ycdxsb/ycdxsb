@@ -14,6 +14,7 @@ email: ycdxsb@gmail.com
 - MSRC 2022 Q3 Leaderboard (# 21)
 
 ### Several vulnerabilities
+- [CVE-2023-32351](https://support.apple.com/en-vn/HT213763) Apple
 - [CVE-2023-29012](https://github.com/git-for-windows/git/security/advisories/GHSA-gq5x-v87v-8f7g) Git for Windows
 - [CVE-2023-29011](https://github.com/git-for-windows/git/security/advisories/GHSA-g4fv-xjqw-q7jm) Git for Windows
 - [CVE-2023-28260](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28260) DotNet SDK
