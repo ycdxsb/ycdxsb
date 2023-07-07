@@ -9,7 +9,7 @@ email: ycdxsb@gmail.com
 
 - MSRC 2022(Q3), 2023(Q1&Q2) Leaderboard
 - Dell Hall Of Frame
-- Intel LeaderBoard
+- Intel Leaderboard
 - Google Bug Hunter Leaderboard
 
 ### Several vulnerabilities
