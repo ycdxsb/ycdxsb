@@ -7,11 +7,10 @@ email: ycdxsb@gmail.com
 
 ### A small step forward
 
-- MSRC 2023 Q1 Leaderboard (# 38)
-- Dell Hall Of Frame (# 7)
-- Intel LeaderBoard (# 17)
-- Google Bug Hunter Leaderboard (# N/A)
-- MSRC 2022 Q3 Leaderboard (# 21)
+- MSRC 2022(Q3), 2023(Q1&Q2) Leaderboard
+- Dell Hall Of Frame
+- Intel LeaderBoard
+- Google Bug Hunter Leaderboard
 
 ### Several vulnerabilities
 - [CVE-2023-33135](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33135) DotNet SDK
