@@ -7,7 +7,7 @@ email: ycdxsb@gmail.com
 
 ### A small step forward
 
-- MSRC 2022(Q3), 2023(Q1&Q2) Leaderboard
+- MSRC 2023 MVR Leaderboard
 - Dell Hall Of Frame
 - Intel Leaderboard
 - Google Bug Hunter Leaderboard
