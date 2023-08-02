@@ -6,7 +6,7 @@ email: ycdxsb@gmail.com
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ycdxsb&count_private=true&show_icons=true&theme=radical" width="420">
 
 ### A small step forward
-
+- Paper "File Hijacking Vulnerability: The Elephant in the Room" is accepted by NDSS 2024
 - MSRC 2023 MVR TOP 100
 - Dell Hall Of Frame
 - Intel Leaderboard
@@ -27,6 +27,7 @@ email: ycdxsb@gmail.com
 - [CVE-2023-23697](https://www.dell.com/support/kbdoc/000207929) Dell
 - [CVE-2023-23618](https://github.com/git-for-windows/git/security/advisories/GHSA-wxwv-49qw-35pm) Git for Windows
 - [CVE-2023-21567](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21567) Visual Studio
+- [CVE-2023-4052](https://www.mozilla.org/en-US/security/advisories/mfsa2023-29) Firefox
 - [CVE-2023-2939](https://bugs.chromium.org/p/chromium/issues/detail?id=1427431) Google Chrome
 - [CVE-2022-41953](https://github.com/git-for-windows/git/security/advisories/GHSA-v4px-mx59-w99c) Git for Windows
 - [CVE-2022-39404](https://www.oracle.com/security-alerts/cpuoct2022.html) Oracle MySQL
