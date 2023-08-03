@@ -8,9 +8,10 @@ email: ycdxsb@gmail.com
 ### A small step forward
 - Paper "File Hijacking Vulnerability: The Elephant in the Room" is accepted by NDSS 2024
 - MSRC 2023 MVR TOP 100
-- Dell Hall Of Frame
+- Dell Hall Of Fame
 - Intel Leaderboard
 - Google Bug Hunter Leaderboard
+- Mozilla Hall of Fame
 
 ### Several vulnerabilities
 - [CVE-2023-33135](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33135) DotNet SDK
