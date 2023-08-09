@@ -13,6 +13,7 @@ email: ycdxsb@gmail.com
 - Google Bug Hunter Leaderboard
 - Mozilla Hall of Fame
 
+<!--
 ### Several vulnerabilities
 - [CVE-2023-33135](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33135) DotNet SDK
 - [CVE-2023-33126](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33126) DotNet SDK
@@ -42,3 +43,4 @@ email: ycdxsb@gmail.com
 - [CVE-2022-24765](https://github.com/git-for-windows/git/security/advisories/GHSA-vw2c-22j4-2fh2) Git for Windows
 - [CVE-2022-22977](https://www.vmware.com/security/advisories/VMSA-2022-0015.html) VMWare Tools
 - [CVE-2022-1316](https://www.zerotier.com/2022/04/11/zerotier-for-windows-local-privilege-escalation/) ZeroTier One
+-->
