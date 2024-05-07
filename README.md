@@ -1,10 +1,11 @@
-Hi, I am ycdxsb, a beginner in the field of cybersecurity, with a focus on **Windows security**. I am currently learning about **fuzzing skills** and plan to explore **cloud-native security** and **Web3 security** in the future.
+Hi, I am ycdxsb, a beginner in the field of cybersecurity, with a focus on **Windows and software security**. I am currently learning about **fuzzing skills**.
 
 ### Contact
 email: ycdxsb@gmail.com
 
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ycdxsb&count_private=true&show_icons=true&theme=radical" width="420">
-
+-->
 ### A small step forward
 - Paper "File Hijacking Vulnerability: The Elephant in the Room" is accepted by NDSS 2024
 - MSRC 2023 MVR TOP 100
@@ -12,6 +13,14 @@ email: ycdxsb@gmail.com
 - Intel Leaderboard
 - Google Bug Hunter Leaderboard
 - Mozilla Hall of Fame
+
+<hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ycdxsb&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ycdxsb&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ycdxsb&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ycdxsb&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ycdxsb&theme=github&utcOffset=8)
 
 <!--
 ### Several vulnerabilities
