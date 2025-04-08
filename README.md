@@ -14,15 +14,13 @@ email: ycdxsb@gmail.com
 - Google Bug Hunter Leaderboard
 - Mozilla Hall of Fame
 
-<hr/>
-
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ycdxsb&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ycdxsb&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ycdxsb&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ycdxsb&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ycdxsb&theme=github&utcOffset=8)
 
-<!--
 ### Several vulnerabilities
 - [CVE-2023-33135](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33135) DotNet SDK
 - [CVE-2023-33126](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33126) DotNet SDK
