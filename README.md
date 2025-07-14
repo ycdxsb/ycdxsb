@@ -8,9 +8,9 @@ email: ycdxsb@gmail.com
 -->
 ### A small step forward
 - Paper "File Hijacking Vulnerability: The Elephant in the Room" is accepted by NDSS 2024
-- MSRC 2023 MVR TOP 100
+- Intel Leaderboard #1
+- MSRC 2023 MVR #32
 - Dell Hall Of Fame
-- Intel Leaderboard
 - Google Bug Hunter Leaderboard
 - Mozilla Hall of Fame
 
