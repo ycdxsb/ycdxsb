@@ -7,7 +7,7 @@ email: ycdxsb@gmail.com
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ycdxsb&count_private=true&show_icons=true&theme=radical" width="420">
 -->
 ### A small step forward
-- MSRC 2023 MVR TOP 100 #32 & 2025 MVR TOP 100 #40
+- MSRC 2023 & 2025 MVR TOP 100
 - Paper "File Hijacking Vulnerability: The Elephant in the Room" is accepted by NDSS 2024
 - Intel Leaderboard #1
 - Dell Hall Of Fame
